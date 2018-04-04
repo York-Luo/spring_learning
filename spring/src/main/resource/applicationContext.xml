@@ -18,5 +18,5 @@ PersistenceAnnotationBeanPostProcessor 以及 RequiredAnnotationBeanPostProcesso
     <!-- <context:annotation-config/> -->
 
     <context:component-scan base-package="com.luoy.*" />
-
+    test
 </beans>
